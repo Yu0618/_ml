@@ -30,4 +30,4 @@
 
 ## 🚀 執行結果範例
 
-* **
+* **執行解果.txt** : https://github.com/Yu0618/_ml/blob/master/%E6%9C%9F%E4%B8%AD/%E5%9F%B7%E8%A1%8C%E7%B5%90%E6%9E%9C.txt
